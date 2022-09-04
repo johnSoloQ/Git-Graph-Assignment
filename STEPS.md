@@ -10,8 +10,9 @@ Add STEPS.md to bug-fix (third commit)
 
 Spaced out the steps.md and wrote this for (fourth commit)
 
-Write this as fifth commit. (fake)
+Space out the steps.md and write this for (fourth commit)
 
-Write this as sixth commit. (fake)
+Create bug-fix-experimental branch and write this as (fifth commit)
 
-Write this as seventh commit. (fake)
+Write this as the (sixth commit)
+
